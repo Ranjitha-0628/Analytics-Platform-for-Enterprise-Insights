@@ -1,0 +1,11 @@
+OrderDate,Region,Category,Product,Sales,Profit
+05-01-2023,South,Electronics,Headphones,1200,200
+12-01-2023,East,Furniture,Office Chair,3400,500
+03-02-2023,West,Technology,Laptop,55000,7000
+15-02-2023,North,Electronics,Smartphone,25000,4500
+10-03-2023,South,Furniture,Desk,7800,1200
+22-03-2023,East,Technology,Tablet,15000,3000
+05-04-2023,West,Electronics,Smartwatch,18000,3500
+18-04-2023,North,Furniture,Cabinet,9200,1800
+09-05-2023,South,Technology,Monitor,12000,2500
+21-05-2023,East,Electronics,Camera,30000,6000
